@@ -1,5 +1,7 @@
 # Length_Based_Socket_Buffer
-This repository maintains compatibility by creating a "length-based" standard for dynamic data between socket communications, regardless of programming language. 프로그래밍 언어 상관없이 "길이-기반"규격을 개발하여  오버플로우 없이 엔드포인트 간 동적 데이터를 주고받을 수 있는 저장소입니다. ( 서로 다른 언어를 사용하는 환경에서 Socket통신을 할 때 사용하여도 "길이-기반" format 규격으로 파싱하면 문제없습니다.  )
+This repository maintains compatibility by creating a "length-based" standard for dynamic data between socket communications, regardless of programming language. 프로그래밍 언어 상관없이 "길이-기반"규격을 개발하여  오버플로우 없이 엔드포인트 간 동적 데이터를 주고받을 수 있는 저장소입니다. 
+
+( 서로 다른 언어를 사용하는 환경에서 Socket통신을 할 때 사용하여도 "길이-기반" format 규격으로 파싱하면 문제없습니다.  )
 
 # 기술 원리 ( little endian 지원 )
 
