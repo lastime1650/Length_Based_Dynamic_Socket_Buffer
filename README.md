@@ -19,7 +19,7 @@ This repository maintains compatibility by creating a "length-based" standard fo
 
 # 현재 사용할 수 있는 언어
 
-제가 현재 C, RUST, PYTHON 3가지 언어를 이용하여 다 똑같은 "길이-기반" 데이터를 만들고, 관리하는 기능/동작 을 구현했습니다.
+제가 현재 C[C언어_코드보기](https://github.com/lastime1650/Length_Based_Dynamic_Socket_Buffer/blob/main/C./main.c), RUST[RUST언어_코드보기](https://github.com/lastime1650/Length_Based_Dynamic_Socket_Buffer/blob/main/RUST./main.rs), PYTHON[PYTHON언어 코드보기](https://github.com/lastime1650/Length_Based_Dynamic_Socket_Buffer/blob/main/PYTHON./Length_Based_Socket_Communication.py) 3가지 언어를 이용하여 다 똑같은 "길이-기반" 데이터를 만들고, 관리하는 기능/동작 을 구현했습니다.
 
 실제로 소켓을 통하여 서로 다른 언어영억에서 "길이-기반"데이터를 자동파싱하면서 놀면 재밌습니다. 
 
