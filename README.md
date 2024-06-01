@@ -3,4 +3,4 @@ This repository maintains compatibility by creating a "length-based" standard fo
 
 # 기술 원리
 
-[!initial](https://github.com/lastime1650/Length_Based_Socket_Buffer/blob/main/image_for_readme/image.png)
+![initial](https://github.com/lastime1650/Length_Based_Socket_Buffer/blob/main/image_for_readme/image.png)
