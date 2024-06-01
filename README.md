@@ -3,6 +3,8 @@ This repository maintains compatibility by creating a "length-based" standard fo
 
 ( 서로 다른 언어를 사용하는 환경에서 Socket통신을 할 때, 이 저장소에서 구현된 코드를 참고/사용하면 "길이-기반" format 규격으로 데이터를 생성/해석합니다.  )
 
+즉, 환경 상관없이 동일하게 쓸 수 있다는 것입니다.
+
 # 기술 원리 ( little endian 지원 )
 
 ![initial](https://github.com/lastime1650/Length_Based_Socket_Buffer/blob/main/image_for_readme/image.png)
